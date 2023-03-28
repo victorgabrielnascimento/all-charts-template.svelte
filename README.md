@@ -24,7 +24,7 @@
  
  <h2>Agora só se aventurar, fique a vontade para modificar o gráfico e implementar outro no lugar!</h2>
  
- <h1> Pronto, agora é só testar o app, o API atualiza automaticamente diariamente, em caso de bug ou ideia mande um request </h1>
+ <h1> Pronto, agora é só testar os componentes na sua main App.svelte! em caso de bug mande um request, obrigado! </h1>
  
  ## 🐱‍👤 Gostou? me siga no -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
  ## 📚Veja mais no meu repositório -> [[Repositories]](https://github.com/victorgabrielnascimento?tab=repositories)
