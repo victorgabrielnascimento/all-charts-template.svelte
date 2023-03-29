@@ -3,7 +3,6 @@
   import { onMount } from "svelte";
 
   let chartConnect;
-  export let percent;
 
   onMount(() => {
     const progressBar = {
@@ -66,7 +65,7 @@
         labels: ["Dispobilidade total do turno."],
         datasets: [
           {
-            data: [percent, 100],
+            data: [85, 100],
             backgroundColor: ["#E73536"],
             borderWidth: 0,
             borderColor: ["#D9D9D9"],
@@ -115,6 +114,5 @@
 <canvas bind:this={chartConnect} />
 
 <!-- Basta importar este componete na sua página principal do código e modificar a o width do chart no style da página principal  -->
-
 <style>
 </style>
