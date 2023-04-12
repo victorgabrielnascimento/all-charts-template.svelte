@@ -53,7 +53,7 @@
             },
             ticks: {
               font: {
-                size: 10, // tamanho da fonte em pixels
+                size: 10,
                 family: "Gotham, sans-serif",
               },
             },
