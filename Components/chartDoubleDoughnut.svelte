@@ -45,7 +45,7 @@
               boxWidth: 0,
               color: "black",
               font: {
-                size: 13, // tamanho da fonte em pixels
+                size: 13,
                 family: "Montserrat, sans-serif",
                 weight: "bolder",
               },
