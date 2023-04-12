@@ -42,7 +42,7 @@
             labels: {
               color: "black",
               font: {
-                size: 20, // tamanho da fonte em pixels
+                size: 20,
               },
             },
           },
@@ -55,7 +55,7 @@
             },
             ticks: {
               font: {
-                size: 16, // tamanho da fonte em pixels
+                size: 16,
               },
               color: "black",
               stepSize: 1,
@@ -68,7 +68,7 @@
             },
             ticks: {
               font: {
-                size: 20, // tamanho da fonte em pixels
+                size: 20,
               },
               color: "black",
               min: 1,
