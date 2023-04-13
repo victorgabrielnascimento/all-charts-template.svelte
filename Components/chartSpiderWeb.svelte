@@ -43,7 +43,7 @@
               display: false,
             },
             border: {
-              display: false,
+              display: false, // api util para retirar linhas
             },
           },
           y: {
@@ -63,7 +63,7 @@
           legend: {
             display: true,
             labels: {
-              boxWidth: 0,
+              boxWidth: 0, // escolhe o tamanho do identificador de cores
               color: "black",
               font: {
                 size: 12, //em pixels
