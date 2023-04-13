@@ -43,7 +43,7 @@
               display: false,
             },
             border: {
-              display: false, // retirar linhas
+              display: false,
             },
           },
           y: {
