@@ -34,7 +34,7 @@
         plugins: {
           legend: {
             labels: {
-              boxWidth: 12, //em pixels
+              boxWidth: 12,
               color: "black",
               font: {
                 size: 8,
