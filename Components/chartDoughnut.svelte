@@ -35,7 +35,7 @@
               boxWidth: 0,
               color: "black",
               font: {
-                size: 15, // tamanho da fonte em pixels
+                size: 15,
               },
             },
           },
