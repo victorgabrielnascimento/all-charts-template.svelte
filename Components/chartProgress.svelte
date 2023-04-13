@@ -89,7 +89,7 @@
             },
             ticks: {
               font: {
-                size: 20, // tamanho da fonte em pixels
+                size: 20,
               },
             },
           },
