@@ -66,7 +66,7 @@
               boxWidth: 0,
               color: "black",
               font: {
-                size: 12, //em pixels
+                size: 12,
                 family: "Gotham",
               },
             },
