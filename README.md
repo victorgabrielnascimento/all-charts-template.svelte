@@ -28,3 +28,9 @@
  
  ## 🐱‍👤 Gostou? me siga no -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
  ## 📚Veja mais no meu repositório -> [[Repositories]](https://github.com/victorgabrielnascimento?tab=repositories)
+ 
+ Exemplo de como importar:
+
+![image](https://user-images.githubusercontent.com/105366808/232048322-ae34b090-51a1-4baf-804a-27eb6bb406b9.png)
+
+![image](https://user-images.githubusercontent.com/105366808/232048498-4a5a7ce1-364a-422b-8d80-408d878970c6.png)
