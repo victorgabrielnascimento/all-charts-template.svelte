@@ -63,7 +63,7 @@
           legend: {
             display: true,
             labels: {
-              boxWidth: 0, // escolhe o tamanho do identificador de cores
+              boxWidth: 0,
               color: "black",
               font: {
                 size: 12, //em pixels
