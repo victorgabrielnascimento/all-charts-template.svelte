@@ -30,7 +30,7 @@
             },
             ticks: {
               font: {
-                size: 14,
+                size: 14, // em pixels
                 family: "Gotham",
               },
               color: "black",
@@ -60,7 +60,7 @@
               boxWidth: 0,
               color: "black",
               font: {
-                size: 12,
+                size: 12, // em pixels
                 family: "Gotham",
               },
             },
@@ -70,7 +70,7 @@
             anchor: "end",
             align: "start",
             font: {
-              size: 16,
+              size: 16, // em pixels
               family: "Gotham",
             },
             formatter: function (value, context) {
