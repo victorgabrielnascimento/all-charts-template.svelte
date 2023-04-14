@@ -43,7 +43,7 @@
               display: false,
             },
             border: {
-              display: false, // api util para retirar linhas
+              display: false,
             },
           },
           y: {
