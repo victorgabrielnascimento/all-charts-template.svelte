@@ -28,7 +28,7 @@
               "#DB3233",
             ],
             borderColor: ["#09AE8760"],
-            borderWidth: 2, //tamanho do contorno do gráfico
+            borderWidth: 2,
           },
         ],
       },
