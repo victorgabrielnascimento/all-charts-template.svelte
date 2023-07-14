@@ -38,7 +38,6 @@
  <h3>Thats it! Feel free to modify the chart and implement another one in its place!</h3>
 
  <br>
-  
  <h3>I will let here just an exemple how to import the chart component:</h3>
 
 ![image](https://user-images.githubusercontent.com/105366808/232048322-ae34b090-51a1-4baf-804a-27eb6bb406b9.png)
